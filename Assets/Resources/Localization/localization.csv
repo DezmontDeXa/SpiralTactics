@@ -1,0 +1,22 @@
+id;RU;EN
+main_1;Играть;Play
+main_2;Прокачка;Upgrades
+main_3;Настройки;Settings
+main_4;Выход;Exit
+settings_1;Настройки;Settings
+settings_2;Громкость;Volume
+settings_3;Язык;Language
+upgrades_1;начальный запас патронов;starting ammo supply
+upgrades_2;скорость восполнения выносливости;stamina regeneration rate
+upgrades_3;скорость добычи повозки;wagon mining speed
+upgrades_4;максимальный запас выносливости;maximum stamina
+upgrades_5;скорость добычи собирателя;collector's picking up speed
+upgrades_6;случайный апгрейд;random upgrade
+book_1;правила;rules
+book_2;Повозка управляется при помощи нижней панели, думаю ты разберёшься :) Чтобы персонаж-собиратель побежал, просто нажми в точку, к которой он должен прийти. По дороге тебе нужно собирать разные предметы, чтобы пополнять запас выносливости и патронов, может быть найдешь еще что-нибудь полезное. Также собирай круглые штуки на пнях - это фрукты, они не помогут тебе в текущем забеге, но позволят сделать улучшения, которые навсегда усилят тебя;The wagon is controlled by the bottom panel, I think you'll figure it out :) To make the gathering character run, just click on the point where he should comeAlong the way, you need to collect various items to replenish your stamina and ammo, maybe you will find something else usefulAlso collect round things on the stumps - these are fruits, they will not help you in the current run, but will allow you to make improvements that will permanently strengthen you 
+book_3;Три существа украли у волшебников магические предметы. Маги в бешенстве и они начинают погоню. Героям нужно убежать в безопасное место, где они смогут укрыться. Но существует ли безопасное место? Каждый раз перед смертью срабатывает один из украденных магических шаров, который телепортирует персонажей в начальную точку забега, тем самым предотвращая момент гибели; Three creatures have stolen magic items from wizards. The magicians are furious and they start chasing. The heroes need to run to a safe place where they can hide. But is there a safe place? Each time, before death, one of the stolen magic balls is triggered, which teleports the characters to the starting point of the run, thereby preventing the moment of death;
+book_4;предыстория;backstory
+book_5;знаешь ответ?;do you know the answer?
+book_6;правила игры; game rules
+book_7;предыстория;backstory
+win_1;победа!;victory!

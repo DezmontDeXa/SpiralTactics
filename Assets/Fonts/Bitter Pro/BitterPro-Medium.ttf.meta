@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 33396caf839f00c4cb32bd3f320f2501
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Bitter Pro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d02e5d45d6dc5124c843504c820b7f22, type: 3}
+  - {fileID: 12800000, guid: 529cdf8ecabd6544db156eee59e37a95, type: 3}
+  - {fileID: 12800000, guid: 81d34f68ba0cb6040877f88e54f74897, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
