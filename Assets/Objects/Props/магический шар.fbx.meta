@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: cb213ab1a77fe8d4f8c477a6e09f3d27
 ModelImporter:
-  serializedVersion: 21202
+  serializedVersion: 21300
   internalIDToNameTable:
   - first:
       74: -8973869121326271518
@@ -9,7 +9,12 @@ ModelImporter:
   - first:
       74: -1978303741906493279
     second: Armature|idle
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: magic box.002
+    second: {fileID: 2100000, guid: 29b3b146b6811e2459293c66251b9714, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -105,6 +110,7 @@ ModelImporter:
   humanoidOversampling: 1
   avatarSetup: 0
   addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 1
   additionalBone: 0
   userData: 
   assetBundleName: 

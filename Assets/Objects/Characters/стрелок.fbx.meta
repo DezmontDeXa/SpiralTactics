@@ -1,15 +1,45 @@
 fileFormatVersion: 2
-guid: 27f0ba9834f79834f9c4ab8ed557fd01
+guid: e0b9bae0464c0654a8e892ed2c912517
 ModelImporter:
-  serializedVersion: 21202
+  serializedVersion: 21300
   internalIDToNameTable:
   - first:
-      74: -4491721182874327758
-    second: "Armature|\u0430\u0442\u0430\u043A\u0430"
+      74: 8690592333972468273
+    second: "Armature|Armature|Armature|\u0430\u0442\u0430\u043A\u0430|Armature|\u0430\u0442\u0430\u043A\u0430"
   - first:
-      74: 2594190496240712326
-    second: "Armature|\u043F\u043E\u043A\u043E\u0439"
-  externalObjects: {}
+      74: -796871442560572132
+    second: "Armature|Armature|Armature|\u043F\u043E\u043A\u043E\u0439|Armature|\u043F\u043E\u043A\u043E\u0439"
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.016
+    second: {fileID: 2100000, guid: b68f546a47abfde43b8e3841e792576a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.017
+    second: {fileID: 2100000, guid: 2be87cd98ff31b4429888b0bf328a824, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.018
+    second: {fileID: 2100000, guid: 685cfbfd0e9e92b438a79c7fe2d996cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.019
+    second: {fileID: 2100000, guid: afcea19c31758b740870c5e02ba33881, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hat.002
+    second: {fileID: 2100000, guid: 92c2af4a760889948bf699ef99b3d177, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u0433\u043B\u0430\u0432\u043D\u044B\u0439 \u0441\u0432\u0438\u043D.002"
+    second: {fileID: 2100000, guid: 722e4bbb57cd5cb4dac6619172f049a7, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -105,6 +135,7 @@ ModelImporter:
   humanoidOversampling: 1
   avatarSetup: 0
   addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 1
   additionalBone: 0
   userData: 
   assetBundleName: 

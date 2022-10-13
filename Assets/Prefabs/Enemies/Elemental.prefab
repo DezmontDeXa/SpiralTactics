@@ -533,6 +533,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ee06923f22ff9e841a1e7eb4517f9104, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _damage: 1
 --- !u!136 &6419834067692386872
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -685,7 +686,7 @@ SkinnedMeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: -4666815827077164833, guid: 75099734d4c09ed46865077979517569, type: 3}
+  - {fileID: 2100000, guid: eaacd348899f02548a73622b992c08e6, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
